@@ -9,15 +9,15 @@ This tutorial will illustrate how to build a python flask REST API. It starts wi
 [100%] Testing The Hello World API  
 [100%] Handling Post Requests  
 [100%] Passing Arguments  
-[ 0% ] Storing Data in Memory  
-[ 0% ] Request Argument Parser  
-[ 0% ] Sending Status Code  
-[ 0% ] Validating Requests  
-[ 0% ] Handling Delete Requests  
-[ 0% ] Installing Database Dependencies  
-[ 0% ] Database Configuration  
-[ 0% ] Creating a Model  
-[ 0% ] Querying Database  
-[ 0% ] Serializing Objects  
-[ 0% ] Adding Entries to the Database  
-[ 0% ] Handling Update Request  
+[100%] Storing Data in Memory  
+[100%] Request Argument Parser  
+[100%] Sending Status Code  
+[100%] Validating Requests  
+[100%] Handling Delete Requests  
+[100%] Installing Database Dependencies  
+[100%] Database Configuration  
+[100%] Creating a Model  
+[100%] Querying Database  
+[100%] Serializing Objects  
+[100%] Adding Entries to the Database  
+[100%] Handling Update Request  
